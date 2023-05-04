@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Enchanted Decks",
+    "image": "./projectImages/bike.png",
+    "description": "Enchanted Decks is a platform designed for Magic: The Gathering fans to create, share and play with custom decks of cards. With a user-friendly interface, users can easily browse and search for decks based on different criteria. Enchanted Decks also allows users to create events and invite other players to join in.",
+    "technologies": "HTML · CSS · JAVASCRIPT · REACT · REST API · EXPRESS · MONGO DB",
+    "github": "https://enchanted-decks.netlify.app/",
+    "deployed": "https://github.com/orgs/Canacepa-Alex/repositories",
+    "bgcolor": "#f37737",
+    "id": "1"
+  },
+  {
+    "title": "ChapterVerse",
+    "image": "",
+    "technologies": "HTML · CSS · JAVASCRIPT · GOOGLEAPI · EXPRESS · MONGO DB",
+    "description": "Platform for book lovers to create and share their personal collections of books. With ChapterVerse, users can easily create their own virtual bookshelves, categorize their books, and share their collections with others.",
+    "github": "https://github.com/chapter-verse/chapter-verse",
+    "deployed": "https://chapter-verse.adaptable.app/",
+    "bgcolor": "#29cbe0",
+    "id": "2"
+  },
+  {
+    "title": "Alien Explorer",
+    "image": "",
+    "technologies": "HTML · CSS · JAVASCRIPT · CANVAS",
+    "description": "Classic platformer game that features a range of levels and obstacles that players must navigate through while controlling an alien character. With DOM manipulation, the game responds dynamically to user input.",
+    "github": "https://github.com/mdyeates/team-dashboard",
+    "deployed": "https://github.com/Canacepa/Alien-Explorer",
+    "bgcolor": "#6c4bf4",
+    "id": "3"
+  }
+]
